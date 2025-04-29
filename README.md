@@ -17,8 +17,15 @@ Just an experiment for getting the runtimes of prime factorization using brent-p
 6. Analyze the result
 Please note for step 2.1 to remove the luck factor we instead looping x from a to N - 2
 
-# Results
+# Results Runtime
 ## Classical
-#TODO Add result images
-## Quantum
-#TODO Add result images
+![Alt text](results/classical.png)
+## Quantum Runtime
+![Alt text](results/ibmq_status.png)
+## Quantum Accuracy
+![Alt text](results/output.png)
+![Alt text](results/output1.png)
+![Alt text](results/output2.png)
+![Alt text](results/output3.png)
+![Alt text](results/output4.png)
+![Alt text](results/output5.png)
