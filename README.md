@@ -1,4 +1,4 @@
-# Quantum_Shor_Experiment Abstract
+# Quantum Experiment Abstract
 Just an experiment for getting the runtimes of prime factorization using brent-pollard factor on Classical Computer and Shor's Algorithm on Quantum and Classical computer (Hybrid solution). The result indicates that classical still beats the quantum computer for a small number in term of runtimes. 
 
 # Procedure
